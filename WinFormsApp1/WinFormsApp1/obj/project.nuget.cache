@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "TwkySe5Vz/Y=",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\C#\\WinFormsApp1\\WinFormsApp1\\DataCollector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amnin\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.0\\system.configuration.configurationmanager.9.0.0.nupkg.sha512",
+    "C:\\Users\\amnin\\.nuget\\packages\\system.data.oledb\\9.0.0\\system.data.oledb.9.0.0.nupkg.sha512",
+    "C:\\Users\\amnin\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.0\\system.diagnostics.eventlog.9.0.0.nupkg.sha512",
+    "C:\\Users\\amnin\\.nuget\\packages\\system.diagnostics.performancecounter\\9.0.0\\system.diagnostics.performancecounter.9.0.0.nupkg.sha512",
+    "C:\\Users\\amnin\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.0\\system.security.cryptography.protecteddata.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

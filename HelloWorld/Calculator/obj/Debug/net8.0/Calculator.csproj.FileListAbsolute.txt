@@ -1,0 +1,14 @@
+D:\GitHub\C#\HelloWorld\Calculator\bin\Debug\net8.0\Calculator.exe
+D:\GitHub\C#\HelloWorld\Calculator\bin\Debug\net8.0\Calculator.deps.json
+D:\GitHub\C#\HelloWorld\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+D:\GitHub\C#\HelloWorld\Calculator\bin\Debug\net8.0\Calculator.dll
+D:\GitHub\C#\HelloWorld\Calculator\bin\Debug\net8.0\Calculator.pdb
+D:\GitHub\C#\HelloWorld\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C#\HelloWorld\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+D:\GitHub\C#\HelloWorld\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+D:\GitHub\C#\HelloWorld\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+D:\GitHub\C#\HelloWorld\Calculator\obj\Debug\net8.0\Calculator.dll
+D:\GitHub\C#\HelloWorld\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+D:\GitHub\C#\HelloWorld\Calculator\obj\Debug\net8.0\Calculator.pdb
+D:\GitHub\C#\HelloWorld\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+D:\GitHub\C#\HelloWorld\Calculator\obj\Debug\net8.0\ref\Calculator.dll
